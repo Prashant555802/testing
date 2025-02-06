@@ -1,7 +1,8 @@
-public class Demo
+
+
+public class ab
 {
-	public static void main(String args[])
-	{
-		System.out.println("Hi welcome to CBKore Polytechnic");
+	public static void main(String[] args) {
+	    System.out.println("Hello ");
+	  }
 	}
-}
